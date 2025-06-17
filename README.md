@@ -20,9 +20,3 @@ I'm passionate about building full-stack web applications and continuously explo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahmeer%20Mondal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahmeer24mondal/)
 
 ---
-
-### GitHub Stats
-
-![Shahmeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahmeer123&show_icons=true&theme=tokyonight)
-
----
