@@ -17,7 +17,7 @@ I’m passionate about crafting clean, functional full-stack applications and ex
 ### Notable Projects
 
 #### TaskHub *(https://taskhub24.netlify.app)*
-A responsive task manager with priority tagging, dark mode, persistent storage via `localStorage`, and motivational messages when all tasks are done.
+A responsive task manager with priority tagging, dark mode, persistent storage via `localStorage`.
 
 > **Tech:** JavaScript, Bootstrap, HTML/CSS
 
