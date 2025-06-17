@@ -30,4 +30,4 @@ A responsive task manager with priority tagging, dark mode, persistent storage v
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/shahmeer24mondal/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/shahmeer24mondal/)
