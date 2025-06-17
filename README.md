@@ -16,12 +16,12 @@ I’m passionate about crafting clean, functional full-stack applications and ex
 
 ### Notable Projects
 
-#### [TaskHub](https://taskhub24.netlify.app/)
+#### TaskHub *(https://taskhub24.netlify.app)*
 A responsive task manager with priority tagging, dark mode, persistent storage via `localStorage`, and motivational messages when all tasks are done.
 
-> **Tech:** JavaScript, Bootstrap, FontAwesome, HTML/CSS
+> **Tech:** JavaScript, Bootstrap, HTML/CSS
 
-#### Zypher *(https://zypher24.vercel.app/)*
+#### Zypher *(https://zypher24.vercel.app)*
 A minimal file and text sharing app that generates unique codes for uploads and auto-deletes content after 10 minutes. Used cronjobs to prevent backend sleep.
 
 > **Tech:** React, Express, Multer, Render, Vercel
